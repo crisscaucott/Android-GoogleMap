@@ -60,9 +60,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             case R.id.normal_map:
                 mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
                 return true;
-            case R.id.hybrid_map:
-                mMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
-                return true;
             case R.id.satellite_map:
                 mMap.setMapType(GoogleMap.MAP_TYPE_SATELLITE);
                 return true;
