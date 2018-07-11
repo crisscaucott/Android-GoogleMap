@@ -7,3 +7,4 @@ This is a simple app using Google Map API that can display the device location (
   * Terrain: is a regular terrain map.
   
 A blue marker it's placed by long pressing the map and a info window is show by clicking the marker.
+For video purposes, the real gps location is faked using "Fake GPS Location app".
